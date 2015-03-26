@@ -4,7 +4,7 @@
     EF6, 
   </li>
   <li>
-    MVC  5? MVC 6?
+    MVC  5
   </li>
   <li>
     DI: Autofac? 
